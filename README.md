@@ -1,4 +1,4 @@
-```Ruby
+
 
 # Delivery Center Test Ruby Developer
 
